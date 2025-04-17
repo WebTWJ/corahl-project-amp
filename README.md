@@ -13,7 +13,7 @@ IN PROGRESS
 The goal of the project is to create a smart pen, similar to that used for the [Huion Note](https://www.amazon.com/HUION-Battery-free-Electronic-Note-taking-Refillable/dp/B0BG2T9SGV). The end criteria is to have the pen functionally be able to translate strokes on the paper to a digital medium (most likely vector), and be battery powered. Data proccessing is not expected to occur in the pen, but in a secondary device i.e. a phone or computer. Only data capturing will be done with the pen. Anticipated struggles are: general size constraint, stroke identification, and battery life.
 
 ### Design Overview (my plan going in)
-- Data gathering, will most likely occur through a 3 axi accel/gyro and a force sensor to pick up when pen is being pushed against paper.
+- Data gathering, will most likely occur through a 3 axi accel/gyro and a sensor to pick up when pen is being pushed against paper.
 - Data transmission, bluetooth.
 - Data processing, harder to decide without access to basic data. General idea is to have a threshold pressure, only after which axi values will be used to compute strokes
 - Data output, have rudemintary program where some basic editing can happen before exporting as a pdf.
