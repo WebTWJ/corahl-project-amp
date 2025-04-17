@@ -20,7 +20,7 @@ The goal of the project is to create a smart pen, similar to that used for the [
 
 ## Educational Value Added
 
-This project was picked due to how wholistic it is, it is expected to cover aspects of PCB design, data processing, CAD, and general coding. A custom PCB is expected to have to be made due to the need for minimal size with given components, data processing will be needed to translate raw data from the pen to vector format, and general coding will be needed to turn the processed data into a readable format. CAD design will most likely be needed as well for the pen body.
+This project is expected to cover aspects of PCB design, data processing, CAD, and general coding. A custom PCB is expected to have to be made due to the need for minimal size with given components, data processing will be needed to translate raw data from the pen to vector format, and general coding will be needed to turn the processed data into a readable format. CAD design will most likely be needed as well for the pen body.
 
 ## Tasks
 
